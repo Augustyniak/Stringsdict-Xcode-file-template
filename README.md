@@ -20,7 +20,7 @@ It can be achieved in three steps:
 1. Clone or download repository.
 1. Set the repository direcotry as the current one using `cd` command from withing the command line.
 1. Create directory `~/Library/Developer/Xcode/Templates/File Templates` if it doesn't exist.
-1. Run `cp Resources ~/Library/Developer/Xcode/Templates`.
+1. Run `cp Resource ~/Library/Developer/Xcode/Templates`.
 
 
 ### Alcatraz
