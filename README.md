@@ -23,16 +23,15 @@ It can be achieved in three steps:
 1. Run `cp Resource ~/Library/Developer/Xcode/Templates`.
 
 
+### Alcatraz
+
+Strings dictionary file template is also available for download via [Alcatraz](http://alcatraz.io) plugin. Simply install Alcatraz plugin and use it to browse for the Strings Dictionary Xcode file template.
+
 ##Features
 
 The screenshot below presents file created using *Stings Dictionary* file template. All fields visible on the screenshot are explained in [Apple's documentation](The format of these files is described in details in [Apple's documentation](https://developer.apple.com/library/ios/documentation/MacOSX/Conceptual/BPInternational/StringsdictFileFormat/StringsdictFileFormat.html).).
 
 ![Screenshot](Resources/FileTemplateScreenshot.png?raw=true)
-
-
-### Alcatraz
-
-Strings dictionary file template is also available for download via [Alcatraz](http://alcatraz.io) plugin. Simply install Alcatraz plugin and use it to browse for the Strings Dictionary Xcode file template.
 
 ## Licence
 		
