@@ -6,7 +6,7 @@
 	<dict>
 		<key>NSStringLocalizedFormatKey</key>
 		<string>FORMAT OF STRING WITH %#@VARIABLE@ HERE</string>
-		<key>EXAMPLE_STRING_VARIABLE</key>
+		<key>VARIABLE</key>
 		<dict>
 			<key>NSStringFormatSpecTypeKey</key>
 			<string>NSStringPluralRuleType</string>
